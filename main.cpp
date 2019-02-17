@@ -1,4 +1,7 @@
 #include <iostream> 
+#include <main.h>
+
+
 using namespace std; 
   
 // This function receives text and shift and 
