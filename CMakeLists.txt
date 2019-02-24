@@ -1,5 +1,11 @@
 cmake_minimum_required(VERSION 3.10)
+project(hello Version 1.0.0)
 
-project(hello)
+add_subdirectory(src)
 
-add_executable(hello main.cpp )
+
+
+message(STATUS "I am a Message")
+
+
+add_executable(hello main.cpp)lio

@@ -1,3 +1,0 @@
-/home/vishal/code/project1/cpplearning/build/CMakeFiles/rebuild_cache.dir
-/home/vishal/code/project1/cpplearning/build/CMakeFiles/hello.dir
-/home/vishal/code/project1/cpplearning/build/CMakeFiles/edit_cache.dir
