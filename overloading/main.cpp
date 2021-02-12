@@ -17,7 +17,7 @@ struct Vector2{
        return Add(other);
     }
     Vector2 operator*(const Vector2& other) const{
-       return Multiply(other);
+       return Multiply(other); 
     }
 };
 
